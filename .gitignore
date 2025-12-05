@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# C++ Binaries
+feature_extractor_c2c
+feature_extractor_ddos
+feature_extractor_mitm
+*.o
+*.exe
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
