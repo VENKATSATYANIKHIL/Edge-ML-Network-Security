@@ -42,7 +42,7 @@ The system employs a multi-stage analysis approach:
 ![Architecture Diagram](assets/orchestrator_pipeline.png)
 *Figure 1: High-level System Architecture*
 
-![Terminal Output](assets/terminal_output.png)
+![Terminal Output](assets/detection.jpeg)
 *Figure 2: Real-time attack detection output in the terminal*
 
 ## �📂 Project Structure
